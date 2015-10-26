@@ -1,0 +1,13 @@
+starting imavmp at...
+Mon Oct 19 06:03:57 PYST 2015
+DATACENTER LOADED SUCCESSFULLY
+stopping imavmp at...
+Mon Oct 19 06:04:09 PYST 2015
+rm -rf results/pareto_*
+
+starting imavmp at...
+Mon Oct 19 06:04:09 PYST 2015
+DATACENTER LOADED SUCCESSFULLY
+stopping imavmp at...
+Mon Oct 19 06:04:28 PYST 2015
+rm -rf results/pareto_*
